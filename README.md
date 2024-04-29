@@ -4,7 +4,7 @@ To design and simulate Priority Encoder using vivado.
 Pc with vivado software.
 ## PROCEDURE:
 STEP:1  Start  the Xilinx navigator, Select and Name the New project.
-STEP:2  Select the device family, device, package and speed.       
+STEP:2  Select the device family, device, package and speed.      
 STEP:3  Select new source in the New Project and select Verilog Module as the Source type.                       
 STEP:4  Type the File Name and Click Next and then finish button. Type the code and save it.
 STEP:5  Select the Behavioral Simulation in the Source Window and click the check syntax.                       
